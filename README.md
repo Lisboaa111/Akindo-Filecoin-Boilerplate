@@ -30,12 +30,14 @@ We'll ship a production-quality starter kit that gets any team to a working dApp
 
 ## Scope & Deliverables
 
-— Public repo with Vite + React + TS template
-  - Ready-made UI blocks
-  - React hooks
+- Public repo with Vite + React + TS template
+    - Ready-made UI blocks
+    - React hooks
+    
 - Examples / Recipes
-  - **Warm Storage MVP** — upload → PDP check → pay per retrieval.
-  - Pay-per-document
+    - **Warm Storage MVP** — upload → PDP check → pay per retrieval.
+    - Pay-per-document
+    
 - Docs site (in repo)
 
 ### Stack
