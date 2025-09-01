@@ -1,8 +1,8 @@
 # Synapse Starter (React + Vite)
 
-## One-liner
+**Ship a production-ready Filecoin dApp in under 10 minutes.**
 
-We'll ship a production-quality starter kit that gets any team to a working dApp using Filecoin Services in **<10 minutes**: create wallet, top-up USDFC, approve allowances, upload with CommP, choose provider via Subgraph, verify PDP status, and settle via Filecoin Pay—all exposed as clean React hooks + UI blocks developers can lift into their product.
+Create a wallet → top-up USDFC → set allowances → upload with CommP → pick a storage provider (Subgraph) → verify PDP → settle with Filecoin Pay. All exposed as clean React hooks and drop-in UI blocks.
 
 ## Why fund this
 
@@ -50,3 +50,12 @@ We'll ship a production-quality starter kit that gets any team to a working dApp
 
 - Styling: Tailwind, shadcn.
 
+## Deliverables & Timeline
+
+- **Milestone 1:** Project scaffolding, wallet + USDFC hooks, allowance UI
+
+- **Milestone 2:** Upload pipeline, provider Subgraph integration
+
+- **Milestone 3:** PDP verify + Filecoin Pay settlement flows
+
+- **Milestone 4:** Docs site, examples/recipes, release to npm
